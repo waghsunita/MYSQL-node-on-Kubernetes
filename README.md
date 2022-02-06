@@ -1,1 +1,0 @@
-# MYSQL-node-on-Kubernetes
